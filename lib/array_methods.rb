@@ -7,7 +7,6 @@ array.sort
 end
 
 def array.sort?(element)
->>>>>>> 5b7e11b2fac48bba0d4e2e41750db781b55fc443
 end
 
 def using_reverse(array)
