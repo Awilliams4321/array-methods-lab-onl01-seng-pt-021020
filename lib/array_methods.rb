@@ -3,10 +3,10 @@ array.include?(element)
 end
 
 def using_sort(array)
-<<<<<<< HEAD
 array.sort
-=======
-array.sort?(element)
+end
+
+def array.sort?(element)
 >>>>>>> 5b7e11b2fac48bba0d4e2e41750db781b55fc443
 end
 
